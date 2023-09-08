@@ -1,0 +1,63 @@
+#include <iostream>
+using namespace std;
+
+//first example//
+
+int main() {
+    cout << "Hollow World;
+    return 0;
+}
+
+//second example//
+
+int main() {
+    int myNum;
+    myNum = 15;  
+    cout << myNum;
+    return 0; 
+}
+
+//third example//
+
+int main() {
+  int Age = 35;
+    cout << "I am " << Age << "
+years old,";
+}
+
+//fourth example//
+
+int main() {
+  int x = 5;
+  int y = 6;
+int sum = x + y;
+cout << sum;
+return 0;
+}
+
+//fifth example//
+
+int main() {
+  int x = 5, y 6, z = 50;
+  cout << "y + z";
+return 0;
+}
+
+//sixth example//
+
+int main() {
+  int x, y, z;
+  x = y = z = 50;
+  cout << "x + y + z;
+return 0;
+}
+
+//seventh example//
+
+int main() {
+  int minutesPerhour = 60;
+  int m = 60
+returne 0;
+}
+
+//eith example//
